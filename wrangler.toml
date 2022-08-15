@@ -1,0 +1,8 @@
+name = "replit-followers-bio"
+main = "src/index.js"
+compatibility_date = "2022-08-15"
+send_metrics = false
+node_compat = true
+
+[triggers]
+crons = [ "*/5 * * * *" ]

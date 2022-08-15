@@ -1,0 +1,8 @@
+.git
+
+node_modules
+yarn.lock
+
+.config
+.cache
+.upm
